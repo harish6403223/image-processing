@@ -5,3 +5,5 @@
 2. movc,r,l.py :-
       this python program is window frames by which we can make any rectangle using r key,circle using c and line using l keys
       with respect to mouse
+3. tracking.py :-
+      this illustrates how to make controls of dino game with the help of tracking in image processing
